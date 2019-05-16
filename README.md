@@ -7,6 +7,7 @@ apt update  <br>
 apt upgrade -y  <br>
 apt install git -y <br>
 apt install curl -y <br>
+apt install wget -y <br>
 git clone https://github.com/404rgr/spamRGR.git <br>
 cd spamRGR <br>
 chmod +x spamRGR.sh  <br>
